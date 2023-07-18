@@ -38,7 +38,7 @@
     background: #E55473;
     padding: 20px 43px;
     border: 0px;
-    
+
 
 
 
@@ -113,7 +113,7 @@
     padding-left: 300px;
     padding-top: 180px;
     margin-right: 215px;
-    
+
 }
 
 .flo {
@@ -123,10 +123,62 @@
     padding-top: 100px;
     padding-right: 429px;
     padding-bottom: 100px;
+
+}
+
+section {
+    margin-top: 130px;
+}
+
+/* instragram style*/
+
+.bbb {
+    text-align: center;
+
+
+}
+
+.ins {
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin-bottom: 24px;
     
 }
 
-section{
-    margin-top: 130px;
+.dee {
+    width: 594px;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    margin-left: 625px;
+    /* 166.667% */
+}
+
+.lll {
+    display: flex;
+    justify-content: center;
+    margin-top: 48px;
+}
+
+.a {
+    margin-right: 24px;
+
+}
+
+.b {
+    margin-right: 24px;
+}
+
+.c {
+    margin-right: 24px;
 }
 
