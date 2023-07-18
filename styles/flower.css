@@ -6,7 +6,7 @@
 }
 
 .title {
-    width: 708px;    
+    width: 708px;
     color: #272727;
     font-family: Lato;
     font-size: 80px;
@@ -27,11 +27,19 @@
     line-height: 30px;
     width: 634px;
     margin-bottom: 32px;
-    
+
 }
 
 .btn {
- 
+    font-size: 20px;
+    font-weight: 700;
+    color: #FFF;
+    border-radius: 8px;
+    background: #E55473;
+    padding: 20px 43px;
+    border: 0px;
+
+
 
 
 
@@ -45,7 +53,7 @@
     margin-left: 97px;
 }
 
-.text{
+.text {
     padding-left: 240px;
     padding-top: 197px;
 }
