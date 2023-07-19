@@ -235,14 +235,66 @@ section {
     justify-content: center;
     margin-left: 200px;
 
-    
-    
+
+
 }
 
-.ww{
+.ww {
     padding-left: 270px;
 }
 
-.aa{
+.aa {
     padding-top: 100px;
+}
+
+.spn {
+    color: #E55473;
+}
+
+.qq {
+    color: #FFF;
+    font-family: Lato;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    text-align: center;
+    margin-bottom: 24px;
+}
+
+.rr {
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    margin-bottom: 32px;
+    width: 625px;
+    padding-left: 648px;
+    /* 166.667% */
+}
+
+.sss {
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.tr {
+    background-color: #111010;
+    width: 1922px;
+    height: 449px;
+    flex-shrink: 0;
+    
+}
+
+.ty{
+    padding-top: 100px;
+    
 }
